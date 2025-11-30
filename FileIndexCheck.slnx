@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="FileIndexCheck/FileIndexCheck.csproj" />
+  <Project Path="FileIndexSupport/FileIndexSupport.csproj" />
+  <Project Path="FunctionExerciserWin32/FunctionExerciserWin32.vcxproj" Id="6faf51ca-17dd-4268-b45f-b92be44658a3" />
+</Solution>
